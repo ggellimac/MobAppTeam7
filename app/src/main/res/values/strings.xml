@@ -3,4 +3,26 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="post">Host of <b><i>Post-modern Party</i></b> changed the event time.</string>
+    <string name="soundvision"><b>SoundVision Collar</b> created an event you may be interested in.</string>
+    <string name="tulip"><b>Tulip Grid Showcase</b> has been cancelled</string>
+    <string name="redbird">Upcoming event reminder: <b>RedBird Launch</b> is <b>tomorrow at 3:00pm.</b></string>
+    <string name="cloud">Host of <b><i>2020 Cloud Taste</i></b> changed the event time.</string>
+    <string name="eat"><b><i>Eat Artival Spring</i></b> updated the description.</string>
+    <string name="title_saved_events">Your Saved Events</string>
+    <string name="sfootball1">Tuesday, March 3th 9:00pm</string>
+    <string name="sfootball2">Legacy Stage</string>
+    <string name="sfootball3">Real-Life Models</string>
+    <string name="sredbird1">Sunday, March 8th 3:00pm</string>
+    <string name="sredbird2">RedBird Launch</string>
+    <string name="sredbird3">Origami Partners</string>
+    <string name="scloud1">Wednesday, March 11th 8:00pm</string>
+    <string name="scloud2">2020 Cloud Taste</string>
+    <string name="scloud3">SoundVision Collar</string>
+    <string name="stulip1">Thursday, March 12th 5:00pm</string>
+    <string name="stulip2">Tulip Grid Showcase</string>
+    <string name="stulip3">Star Rally</string>
+
+
+
 </resources>

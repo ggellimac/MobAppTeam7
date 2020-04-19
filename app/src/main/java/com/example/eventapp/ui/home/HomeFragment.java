@@ -6,15 +6,17 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
-import android.widget.TextView;
 
 import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
-import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProviders;
 
-import com.example.eventapp.EventDetails;
+import com.example.eventapp.EventDetails1;
+import com.example.eventapp.EventDetails2;
+import com.example.eventapp.EventDetails3;
+import com.example.eventapp.EventDetails4;
+import com.example.eventapp.EventDetails5;
+import com.example.eventapp.EventDetails6;
 import com.example.eventapp.R;
 
 public class HomeFragment extends Fragment {
@@ -30,7 +32,52 @@ public class HomeFragment extends Fragment {
         getDetails.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(getActivity().getApplicationContext(), EventDetails.class));
+                startActivity(new Intent(getActivity().getApplicationContext(), EventDetails1.class));
+
+            }
+        });
+
+        LinearLayout getDetails2 = root.findViewById(R.id.event2);
+        getDetails2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getActivity().getApplicationContext(), EventDetails2.class));
+
+            }
+        });
+
+        LinearLayout getDetails3 = root.findViewById(R.id.event3);
+        getDetails3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getActivity().getApplicationContext(), EventDetails3.class));
+
+            }
+        });
+
+        LinearLayout getDetails4 = root.findViewById(R.id.event4);
+        getDetails4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getActivity().getApplicationContext(), EventDetails4.class));
+
+            }
+        });
+
+        LinearLayout getDetails5 = root.findViewById(R.id.event5);
+        getDetails5.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getActivity().getApplicationContext(), EventDetails5.class));
+
+            }
+        });
+
+        LinearLayout getDetails6 = root.findViewById(R.id.event6);
+        getDetails6.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getActivity().getApplicationContext(), EventDetails6.class));
 
             }
         });
@@ -42,5 +89,6 @@ public class HomeFragment extends Fragment {
      //       }
     //    });
         return root;
+        //just test some push
     }
 }

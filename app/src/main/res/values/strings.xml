@@ -23,12 +23,34 @@
     <string name="stulip1">Thursday, March 12th 5:00pm</string>
     <string name="stulip2">Tulip Grid Showcase</string>
     <string name="stulip3">Star Rally</string>
+    <!-- Home Screen resource -->
     <string name="home_event1">Lewis Grizzard: In His Own Words</string>
+    <string name="detail_event1">Actor Bill Oberst, Jr. returns to The Strand to perform his celebrated production of "Lewis Grizzard: In His Own Words", a loving tribute to the Southern writer and humorist. Oberst performs selections of Grizzard\'s best-loved stories and jokes in show that Grizzard\'s family says is the closest thing to seeing the late great spokesman of the south onstage again. Lewis Grizzard was the most widely syndicated columnist in until his death at age 47, appearing in 450 daily newspapers. Grizzard\'s best-selling books include two number one bestsellers on the New York Times bestseller list: Elvis Is Dead And I Don\'t Feel So Good Myself and Shoot Low Boys - They\'re Riding Shetland Ponies.</string>
     <string name="home_event2">Free Self-Guided Street Art Walking Tour</string>
+    <string name="detail_event2">The interactive maps are easy to follow on your phone and you can take the tours whenever you want. The tours feature murals by local and international artists. You will explore an aspect of Atlanta that most tourists never get to see. In addition to walking tours, the Atlanta Street Art Map website also catalogs and maps over 900 Atlanta murals and offers Artist\'s bios.</string>
     <string name="home_event3">Jazz Age Jeopardy</string>
+    <string name="detail_event3">Looking for an intimate Murder Mystery Dinner Experience where you\'re guaranteed a role in the show? Step back time and experience Jazz Age Jeopardy!\n
+        It\'s the height of the Jazz Age, and social revolution is afoot. Club owner of The Cat\'s Meow, Felix Fontano, the son of a successful bootlegger and crime boss and a successful businessman himself is throwing this private party for a group of select friends,and YOU are INVITED! Will it be a night of revelry like many other nights Or will things go horribly wrong? Ladies get Dolled Up,and Gentlemen grab your fedoras,and dress to in your best 1920\'s attire because Anything can happen in The Cat\'s Meow!</string>
     <string name="home_event4">Whitney Cummings: How Dare You</string>
+    <string name="detail_event4">Whitney Cummings will be making live audiences laugh across the country in 2020. The critically-acclaimed comedian and actress announced a list of live shows for her How Dare You Tour.
+
+The tour kicks off on March 13 in Royal Oak, Michigan (Tickets). It will stop in multiple U.S. cities including Cleveland (Tickets) and Anaheim (Tickets).
+
+Presales for select shows start on Dec. 11 and tickets will go on sale to the general public on Dec. 13 (Tickets). A limited number of premium seating options will also be available to purchase for select shows.
+
+Whitney Cummings is a multi-talented entertainer. The LA-based comedian, writer, actor, producer, and director is best known for creating and starring in the critically-acclaimed NBC series “Whitney.” She also teamed with Michael Patrick King to co-create and co-write CBS’ Emmy-nominated sitcom “Two Broke Girls.”
+
+In addition to her television and standup work, Cummings just launched a podcast called “Good For You” and her first guest was actor/producer Dan Levy (“Schitt’s Creek”). Her fourth hour-long comedy special “Can I Touch It?” premiered on Netflix earlier this year.
+
+Cummings is known for openly expressing her opinion and discussing current happenings with confident, sarcastic wit. She’s candid, clever, and unapologetically honest about all sorts of topics from female empowerment and office politics to breakups and relationships. Whatever the subject, she’s proved her prowess for making her live audiences laugh.
+
+The celebrated comedian is taking new material to live audiences nationwide in her upcoming 2020 How Dare You tour.</string>
     <string name="home_event5">Niall Horan - Nice to Meet Ya North American Tour</string>
+    <string name="detail_event5">2020 is looking to be a big year for Directioners.
+
+Niall Horan has announced the dates for his Nice to Meet Ya North American Spring 2020 tour in support of his upcoming album. The announcement comes less than a week after fellow One Direction star Louis Tomlinson revealed the dates for his first solo world tour.</string>
     <string name="home_event6">The Aso Virtual Stage</string>
+    <string name="detail_event6">Don your fanciest duds (or don\'t) and turn your living room into a virtual concert hall for ASO\’s next Live Stream Watch Party on Facebook. Can\’t make the date? Find specially curated content, performances and videos on Atlanta Symphony\’s Virtual Stage any time.</string>
     <string name="home_event1_time">Saturday, Mar 7 8:00pm</string>
     <string name="home_event2_time">Sunday, Mar 8 6:00pm</string>
     <string name="home_event3_time">Sunday, Mar 8 3:00pm</string>

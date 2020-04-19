@@ -22,7 +22,9 @@
     <string name="stulip1">Thursday, March 12th 5:00pm</string>
     <string name="stulip2">Tulip Grid Showcase</string>
     <string name="stulip3">Star Rally</string>
+    <!-- Home Screen resource -->
     <string name="home_event1">Lewis Grizzard: In His Own Words</string>
+    <string name="detail_event1">Actor Bill Oberst, Jr. returns to The Strand to perform his celebrated production of "Lewis Grizzard: In His Own Words", a loving tribute to the Southern writer and humorist. Oberst performs selections of Grizzard\'s best-loved stories and jokes in show that Grizzard\'s family says is the closest thing to seeing the late great spokesman of the south onstage again. Lewis Grizzard was the most widely syndicated columnist in until his death at age 47, appearing in 450 daily newspapers. Grizzard\'s best-selling books include two number one bestsellers on the New York Times bestseller list: Elvis Is Dead And I Don\'t Feel So Good Myself and Shoot Low Boys - They\'re Riding Shetland Ponies.</string>
     <string name="home_event2">Free Self-Guided Street Art Walking Tour</string>
     <string name="home_event3">Jazz Age Jeopardy</string>
     <string name="home_event4">Whitney Cummings: How Dare You</string>

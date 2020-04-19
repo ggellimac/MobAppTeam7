@@ -71,6 +71,7 @@
             </LinearLayout>
 
             <LinearLayout
+                android:id="@+id/event2"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
@@ -105,6 +106,7 @@
             </LinearLayout>
 
             <LinearLayout
+                android:id="@+id/event3"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
@@ -139,6 +141,7 @@
             </LinearLayout>
 
             <LinearLayout
+                android:id="@+id/event4"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
@@ -173,6 +176,7 @@
             </LinearLayout>
 
             <LinearLayout
+                android:id="@+id/event5"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
@@ -207,6 +211,7 @@
             </LinearLayout>
 
             <LinearLayout
+                android:id="@+id/event6"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"

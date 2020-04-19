@@ -17,12 +17,12 @@
         android:label="@string/title_notifications"
         tools:layout="@layout/fragment_notifications" />
     <fragment
-        android:id="@+id/navigation_search2"
+        android:id="@+id/navigation_search"
         android:name="com.example.eventapp.navigation_search"
         android:label="@string/Search"
         tools:layout="@layout/fragment_search" />
     <fragment
-        android:id="@+id/navigation_bookmark2"
+        android:id="@+id/navigation_bookmark"
         android:name="com.example.eventapp.navigation_bookmark"
         android:label="@string/Bookmark"
         tools:layout="@layout/fragment_bookmark" />

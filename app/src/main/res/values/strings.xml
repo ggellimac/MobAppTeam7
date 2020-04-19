@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">EventApp</string>
     <string name="title_home">Home</string>
+    <string name="title_home2">This week in <i>Atlanta</i></string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
     <string name="post">Host of <b><i>Post-modern Party</i></b> changed the event time.</string>
@@ -28,6 +29,13 @@
     <string name="home_event4">Whitney Cummings: How Dare You</string>
     <string name="home_event5">Niall Horan - Nice to Meet Ya North American Tour</string>
     <string name="home_event6">The Aso Virtual Stage</string>
+    <string name="home_event1_time">Saturday, Mar 7 8:00pm</string>
+    <string name="home_event2_time">Sunday, Mar 8 6:00pm</string>
+    <string name="home_event3_time">Sunday, Mar 8 3:00pm</string>
+    <string name="home_event4_time">Tuesday, Mar 10 10:00pm</string>
+    <string name="home_event5_time">Wednesday, Mar 11 8:00pm</string>
+    <string name="home_event6_time">Thursday, Mar 12 5:00pm</string>
+
     <!-- TODO: Bottom Navbar stuff: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="profile">Profile</string>

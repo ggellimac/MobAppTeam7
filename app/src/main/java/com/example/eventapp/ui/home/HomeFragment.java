@@ -5,6 +5,8 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.EditText;
 import android.widget.LinearLayout;
 
 import androidx.annotation.NonNull;
@@ -22,6 +24,8 @@ import com.example.eventapp.R;
 public class HomeFragment extends Fragment {
 
     private HomeViewModel homeViewModel;
+    private Button submit;
+    private EditText search;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
@@ -88,6 +92,17 @@ public class HomeFragment extends Fragment {
      //           textView.setText(s);
      //       }
     //    });
+        submit = (Button)root.findViewById(R.id.submit);
+        search = (EditText)root.findViewById(R.id.search);
+        submit.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (search.getText().toString().equals("Lewis")) {
+                    startActivity(new Intent(getActivity().getApplicationContext(), EventDetails1.class));
+                }
+            }
+        });
+
         return root;
         //just test some push
     }

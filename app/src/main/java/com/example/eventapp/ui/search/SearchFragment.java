@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
@@ -29,6 +30,14 @@ public class SearchFragment extends Fragment {
         //          textView.setText(s);
         //      }
         //   });
+        Button button = root.findViewById(R.id.submit_search);
+        button.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                TextView text = v.findViewById(R.id.category);
+                text.setText("hello");
+            }
+        });
         return root;
     }
+
 }

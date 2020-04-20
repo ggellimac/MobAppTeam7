@@ -10,7 +10,7 @@ public class SearchViewModel extends ViewModel{
 
     public SearchViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("Host of <b><i>Post-modern Party</i></b> changed the event time.");
+        mText.setValue("");
     }
 
     public LiveData<String> getText() {

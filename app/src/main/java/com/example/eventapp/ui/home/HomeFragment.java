@@ -99,6 +99,16 @@ public class HomeFragment extends Fragment {
             public void onClick(View v) {
                 if (search.getText().toString().equals("Lewis")) {
                     startActivity(new Intent(getActivity().getApplicationContext(), EventDetails1.class));
+                } else if (search.getText().toString().equals("Street art")) {
+                    startActivity(new Intent(getActivity().getApplicationContext(), EventDetails2.class));
+                } else if (search.getText().toString().equals("Jazz")) {
+                    startActivity(new Intent(getActivity().getApplicationContext(), EventDetails3.class));
+                } else if (search.getText().toString().equals("Whitney Cummings")) {
+                    startActivity(new Intent(getActivity().getApplicationContext(), EventDetails4.class));
+                } else if (search.getText().toString().equals("Niall Horan")) {
+                    startActivity(new Intent(getActivity().getApplicationContext(), EventDetails5.class));
+                } else if (search.getText().toString().equals("Aso")) {
+                    startActivity(new Intent(getActivity().getApplicationContext(), EventDetails6.class));
                 }
             }
         });

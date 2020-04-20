@@ -57,6 +57,13 @@ Niall Horan has announced the dates for his Nice to Meet Ya North American Sprin
     <string name="home_event4_time">Tuesday, Mar 10 10:00pm</string>
     <string name="home_event5_time">Wednesday, Mar 11 8:00pm</string>
     <string name="home_event6_time">Thursday, Mar 12 5:00pm</string>
+    <string name="location1"><u>Earl and Rachel Smith Strand Theatre, 117 North Park Square
+Marietta, GA 30060</u></string>
+    <string name="location2"><u>Beltline Eastside, CabbageTown, Downtown, East Atlanta, Edgewood Ave, Little 5 Points, Pittsburgh Neighborhood.</u></string>
+    <string name="location3"><u>Miracle Plays 3755 College St. College Park, GA 30337</u></string>
+    <string name="location4"><u>Center Stage Theater, 1374 W. Peachtree St., Atlanta, GA 30309</u></string>
+    <string name="location5"><u>State Farm Arena, 1 State Farm Drive, Atlanta, GA 30303</u></string>
+    <string name="location6"><u>Online</u></string>
 
     <!-- TODO: Bottom Navbar stuff: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>

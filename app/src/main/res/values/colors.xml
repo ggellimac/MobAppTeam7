@@ -4,4 +4,10 @@
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
     <color name="white">#FFF</color>
+    <color name="dark">#354763</color>
+    <color name="search1">#ccffffff</color>
+    <color name="search2">#1affffff</color>
+    <color name="search3">#66ffffff</color>
+
+
 </resources>
